@@ -7,4 +7,5 @@ def fun():
  
  
 # Driver code to call a function
+
 fun()
